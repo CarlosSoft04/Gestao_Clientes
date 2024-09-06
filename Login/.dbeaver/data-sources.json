@@ -1,0 +1,35 @@
+{
+	"folders": {},
+	"connections": {
+		"sqlite_jdbc-1915959bc55-77d96d77f8beaf2a": {
+			"provider": "sqlite",
+			"driver": "sqlite_jdbc",
+			"name": "bdclientes.db",
+			"save-password": true,
+			"configuration": {
+				"database": "C:\\Users\\renat\\Documents\\workspace-spring-tool-suite-4-4.24.0.RELEASE\\Login\\resources\\bdclientes.db",
+				"url": "jdbc:sqlite:C:\\Users\\renat\\Documents\\workspace-spring-tool-suite-4-4.24.0.RELEASE\\Login\\resources\\bdclientes.db",
+				"configurationType": "MANUAL",
+				"type": "dev",
+				"closeIdleConnection": true,
+				"auth-model": "native"
+			}
+		}
+	},
+	"connection-types": {
+		"dev": {
+			"name": "Desenvolvimento",
+			"color": "255,255,255",
+			"description": "Banco de dados de desenvolvimento",
+			"auto-commit": true,
+			"confirm-execute": false,
+			"confirm-data-change": false,
+			"smart-commit": false,
+			"smart-commit-recover": true,
+			"auto-close-transactions": true,
+			"close-transactions-period": 1800,
+			"auto-close-connections": true,
+			"close-connections-period": 14400
+		}
+	}
+}

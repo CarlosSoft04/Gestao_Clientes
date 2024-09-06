@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<jdbcDataAdapter class="net.sf.jasperreports.data.jdbc.JdbcDataAdapterImpl">
+	<name>New Data Adapter 1</name>
+	<driver>org.sqlite.JDBC</driver>
+	<username></username>
+	<password></password>
+	<url>jdbc:sqlite:C:\Users\renat\Documents\workspace-spring-tool-suite-4-4.24.0.RELEASE\Login\resources\bdclientes.db</url>
+	<database></database>
+	<savePassword>true</savePassword>
+	<serverAddress></serverAddress>
+</jdbcDataAdapter>
