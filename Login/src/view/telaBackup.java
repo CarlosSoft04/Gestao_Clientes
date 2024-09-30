@@ -7,7 +7,7 @@ import javax.swing.border.EmptyBorder;
 import javax.swing.event.ListSelectionEvent;
 import javax.swing.event.ListSelectionListener;
 
-import controller.backup;
+import controller.Backup;
 import javax.swing.JButton;
 import java.awt.Font;
 import java.util.ArrayList;
@@ -23,7 +23,7 @@ public class telaBackup extends JFrame {
 
 	private static final long serialVersionUID = 1L;
 	private JPanel contentPane;
-	private backup back = new backup();
+	private Backup back = new Backup();
 	private ArrayList<String> arquivosBackup = new ArrayList<>();
 	private JList<String> list; // Especificar o tipo de JList
 	private String[] nomeBackup;

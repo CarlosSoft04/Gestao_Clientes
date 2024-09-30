@@ -14,7 +14,7 @@ import java.util.zip.ZipOutputStream;
 
 import javax.swing.JOptionPane;
 
-public class backup {
+public class Backup {
     private static final SimpleDateFormat DATA_HORA = new SimpleDateFormat("ddMMyyyy_HHmmss");
 
     private String pathAbsolutoParcial() {
