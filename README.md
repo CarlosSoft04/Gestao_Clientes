@@ -2,16 +2,24 @@
 
 ## Visão Geral 🌐
 Projeto a fins de estudos desenvolvido para Java Desktop, consta com alguns conceitos como:
+
 -CRUD e POO
+
 -Autenticação de Login e Criptografia
+
 -Conexão com banco de dados SQLITE
+
 -Padrao MVC
+
 -Relatórios e Backup
 
 ## Tecnologias Usadas 🛠️
 -Java
+
 -SQLite
+
 -JasperReports
+
 -MVC
 
 ## Pré-requisitos 📋
