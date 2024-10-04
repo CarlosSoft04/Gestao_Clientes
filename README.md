@@ -44,7 +44,7 @@ Caso queira rodar o projeto na sua máquina e pegar o modelo, segue o passo a pa
 
 ## Como contribuir?
 - Estou com um 'bug' na parte de gerar relatórios. Caso queira me ajudar a solucionar:
-- 
+  
 1. **Faça um Fork do Repositório**: Clique no botão "Fork" no canto superior direito da página do repositório.
 2. **Clone o repositório**: No terminal, execute `git clone https://github.com/seu-usuario/repo-forkado.git` e entre na pasta `cd repo-forkado`.
 3. **Crie uma Branch**: Crie uma nova branch para sua feature ou correção de bug: `git checkout -b minha-feature`.
@@ -57,7 +57,6 @@ Caso queira rodar o projeto na sua máquina e pegar o modelo, segue o passo a pa
 Se você tiver dúvidas ou sugestões, sinta-se à vontade para abrir uma *issue*!
 
   
-
 # Contato 📬
 Email: carlostechsoftware@hotmail.com
 
